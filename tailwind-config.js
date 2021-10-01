@@ -24,6 +24,9 @@ module.exports = {
         teal: colors.teal,
         lightBlue: colors.lightBlue,
       },
+      boxShadow:{
+        '3xl': '0 35px 60px -15px rgba(176, 38, 255, 0.8)',
+      },
       fontFamily: {
         heading: ["Poppins", "sans serif"],
         body: ["Inter", "sans serif"],
